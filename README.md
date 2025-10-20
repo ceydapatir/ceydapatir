@@ -2,7 +2,6 @@
 <h3 align="center">A Software Developer from Ankara/Turkey</h3>
 
 ---
-- 🌱 I’m currently learning **.Net Core, Javascript and Angular**.
 
 - 📫 How to reach me **patirceyda@gmail.com**.
 
